@@ -1,0 +1,24 @@
+{
+  "name": "personal-landing-page",
+  "version": "1.0.0",
+  "description": "Personal landing page for Rimmer Sytze Stoop - Entrepreneur & Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "start": "echo 'Deploy to Vercel to start'"
+  },
+  "keywords": [
+    "landing-page",
+    "portfolio",
+    "personal-website",
+    "static-site"
+  ],
+  "author": "Rimmer Sytze Stoop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rimmerstoop/personal-landing-page.git"
+  },
+  "homepage": "https://rimmerstoop.vercel.app"
+}
